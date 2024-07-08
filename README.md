@@ -16,5 +16,6 @@
 <br />
 <br />
 <br />
-## Skills
 
+
+Copyright ⓒ startupcode yaro
