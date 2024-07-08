@@ -17,8 +17,4 @@
 <br />
 <br />
 ## Skills
-#### I use it often.
 
-</div>
-<br />
-<br />
